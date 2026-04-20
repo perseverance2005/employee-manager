@@ -98,9 +98,3 @@ python employee_manager.py
 * 🖥 图形界面（Tkinter）
 * 🌐 Web 版本（前后端分离）
 
----
-
-## 🙌 作者
-
-* 作者：suiy
-* 项目类型：学习项目
